@@ -1,0 +1,35 @@
+_repo: Told-in-a-French-GardenAugust-1914_18004
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aldrich, Mildred
+    birthdate: 1853
+    deathdate: 1928
+    gutenberg_agent_id: '3792'
+    url: http://www.gutenberg.org/2009/agents/3792
+    wikipedia: http://en.wikipedia.org/wiki/Mildred_Aldrich
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18004'
+  lccn: '16023086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+tableOfContents: "Introduction -- I. The Youngster's Story -- II. The Trained Nurse's\
+  \ Story -- III. The Critic's Story -- IV. The Doctor's Story\r\nV. The Sculptor's\
+  \ Story -- VI. The Divorcée's Story -- VII. The Lawyer's Story -- VIII. The Journalist's\
+  \ Story -- IX. The Violinist's Story -- X. Epilogue."
+title: 'Told in a French Garden
+
+  August, 1914'
+url: http://www.gutenberg.org/ebooks/18004
